@@ -45,3 +45,12 @@ fun readMessage(message: String, countMessage: Int) {
     println(message)
     println("You have unread $countMessage messages")
 }
+```
+
+---
+
+## Resultados del Cuestionario
+
+<p align="center">
+<img src="./src/Cuestionario/Resultado.PNG" alt="Nota del Cuestionario 1" width="900px" style="border-radius: 100%">
+</p>
