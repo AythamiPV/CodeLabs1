@@ -52,5 +52,5 @@ fun readMessage(message: String, countMessage: Int) {
 ## Resultados del Cuestionario
 
 <p align="center">
-<img src="./src/Cuestionario/Resultado.PNG" alt="Nota del Cuestionario 1" width="900px" style="border-radius: 100%">
+<img src="./src/Cuestionario/Nota.PNG" alt="Nota del Cuestionario 1" width="900px" style="border-radius: 100%">
 </p>
